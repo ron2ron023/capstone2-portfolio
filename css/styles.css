@@ -1,0 +1,28 @@
+/********
+ABOUT ME
+********/
+
+/* #about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} */
+
+/* .about-intro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about-hobbies{
+    display: inline-flex;
+} */
+
+.skills{
+    height: 130px;
+    width: 130px;
+}
+
+#projects a{
+    text-decoration: none;
+}
